@@ -6,3 +6,4 @@ linux学习手册，各种常用命令使用总结、经验总结等。
 * [Linux基础：find命令](命令总结/find.md)
 * [Linux基础：xargs命令](命令总结/xargs.md)
 * [Linux基础：tcpdump命令](命令总结/tcpdump.md)
+* [Linux基础：yum命令](命令总结/yum.md)
